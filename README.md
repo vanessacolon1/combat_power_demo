@@ -49,8 +49,8 @@ The app expects a **combat power CSV file** with the following columns:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/combat-power-dashboard.git
-cd combat-power-dashboard
+git clone https://github.com/yourusername/combat_power_demo.git
+cd combat_power_demo
 ```
 
 2. Create a virtual environment and install dependencies:
